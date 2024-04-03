@@ -1,5 +1,3 @@
-# Codebelt
-
 Provides a set of tools and libraries to help streamline your development efforts in the context of SDLC- and DevSecOps practices.
 
 This ensures a smooth and consistent way to work with your code.
