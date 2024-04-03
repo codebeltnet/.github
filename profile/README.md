@@ -19,7 +19,7 @@ Areas of focus:
 
 ### Repository Structure
 
-In the root of the repository, there should be a `README.md` file with a description of the repository as well as complemental docs such as `CONTRIBUTING.md`, `CODE_OF_CONDUCT.md`, `LICENSE.md`, `CHANGELOG.md` and so forth.
+In the root of the repository, there should be a `README.md` file with a description of the repository as well as complemental docs such as `CONTRIBUTING.md`, `CODE_OF_CONDUCT.md`, `LICENSE`, `CHANGELOG.md` and so forth.
 
 Any ignore files must also be placed in the root of the repository, including but not limited to `.gitignore`, `.dockerignore` and so forth.
 
