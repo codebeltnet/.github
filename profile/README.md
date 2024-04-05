@@ -1,15 +1,30 @@
-Provides a set of tools and libraries to help streamline your development efforts in the context of SDLC- and DevSecOps practices.
+Provide ways to help you streamline development efforts in the context of SDLC- and DevSecOps practices that ensures a smooth and consistent way of working with code.
 
-This ensures a smooth and consistent way to work with your code.
-
-Areas of focus:
+Repositories of interest:
 
 - .NET
-  - Savvy I/O
-  - SharedKernel
-  - Bootstrapper
+  - [Savvy I/O](https://github.com/codebeltnet/savvyio)
+  - [SharedKernel](https://github.com/codebeltnet/shared-kernel)
+  - [Bootstrapper](https://github.com/codebeltnet/bootstrapper)
 - CI/CD
   - GitHub Actions
+    - [codecov-scan](https://github.com/codebeltnet/codecov-scan)
+    - [codeql-scan](https://github.com/codebeltnet/codeql-scan)
+    - [codeql-scan-finalize](https://github.com/codebeltnet/codeql-scan-finalize)
+    - [dotnet-build](https://github.com/codebeltnet/dotnet-build)
+    - [dotnet-pack](https://github.com/codebeltnet/dotnet-pack)
+    - [dotnet-restore](https://github.com/codebeltnet/dotnet-restore)
+    - [dotnet-test](https://github.com/codebeltnet/dotnet-test)
+    - [dotnet-tool-install-minver](https://github.com/codebeltnet/dotnet-tool-install-minver)
+    - [dotnet-tool-install-reportgenerator](https://github.com/codebeltnet/dotnet-tool-install-reportgenerator)
+    - [dotnet-tool-install-sonarscanner](https://github.com/codebeltnet/dotnet-tool-install-sonarscanner)
+    - [gcp-download-file](https://github.com/codebeltnet/gcp-download-file)
+    - [git-checkout](https://github.com/codebeltnet/git-checkout)
+    - [install-dotnet](https://github.com/codebeltnet/install-dotnet)
+    - [minver-calculate](https://github.com/codebeltnet/minver-calculate)
+    - [nuget-push](https://github.com/codebeltnet/nuget-push)
+    - [sonarcloud-scan](https://github.com/codebeltnet/sonarcloud-scan)
+    - [sonarcloud-scan-finalize](https://github.com/codebeltnet/sonarcloud-scan-finalize)
 - Infrastructure as Code
   - Terraform
 - Microservices
