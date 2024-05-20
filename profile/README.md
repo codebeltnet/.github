@@ -11,6 +11,7 @@ Repositories of interest:
     - [codecov-scan](https://github.com/codebeltnet/codecov-scan)
     - [codeql-scan](https://github.com/codebeltnet/codeql-scan)
     - [codeql-scan-finalize](https://github.com/codebeltnet/codeql-scan-finalize)
+    - [docker-compoose](https://github.com/codebeltnet/docker-compose)
     - [dotnet-build](https://github.com/codebeltnet/dotnet-build)
     - [dotnet-pack](https://github.com/codebeltnet/dotnet-pack)
     - [dotnet-restore](https://github.com/codebeltnet/dotnet-restore)
