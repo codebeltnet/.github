@@ -24,6 +24,7 @@ Repositories of interest:
     - [install-dotnet](https://github.com/codebeltnet/install-dotnet)
     - [minver-calculate](https://github.com/codebeltnet/minver-calculate)
     - [nuget-push](https://github.com/codebeltnet/nuget-push)
+    - [shell-globbing](https://github.com/codebeltnet/shell-globbing)
     - [sonarcloud-scan](https://github.com/codebeltnet/sonarcloud-scan)
     - [sonarcloud-scan-finalize](https://github.com/codebeltnet/sonarcloud-scan-finalize)
 - Infrastructure as Code
