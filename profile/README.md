@@ -6,6 +6,7 @@ Repositories of interest:
   - [Savvy I/O](https://github.com/codebeltnet/savvyio)
   - [SharedKernel](https://github.com/codebeltnet/shared-kernel)
   - [Bootstrapper](https://github.com/codebeltnet/bootstrapper)
+  - [xUnit](https://github.com/codebeltnet/xunit)
 - CI/CD
   - GitHub Actions
     - [codecov-scan](https://github.com/codebeltnet/codecov-scan)
