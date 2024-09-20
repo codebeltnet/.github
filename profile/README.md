@@ -7,6 +7,7 @@ Repositories of interest:
   - [SharedKernel](https://github.com/codebeltnet/shared-kernel)
   - [Bootstrapper](https://github.com/codebeltnet/bootstrapper)
   - [xUnit](https://github.com/codebeltnet/xunit)
+  - [YamlDotNet](https://github.com/codebeltnet/yamldotnet)
 - CI/CD
   - GitHub Actions
     - [codecov-scan](https://github.com/codebeltnet/codecov-scan)
