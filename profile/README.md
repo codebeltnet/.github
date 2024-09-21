@@ -6,10 +6,10 @@ Repositories of interest:
   - [Savvy I/O](https://github.com/codebeltnet/savvyio)
   - [SharedKernel](https://github.com/codebeltnet/shared-kernel)
   - [Bootstrapper](https://github.com/codebeltnet/bootstrapper)
-  - [xUnit](https://github.com/codebeltnet/xunit)
-  - [YamlDotNet](https://github.com/codebeltnet/yamldotnet)
-  - [Asp.Versioning](https://github.com/codebeltnet/asp-versioning)
-  - [Swashbuckle.AspNetCore](https://github.com/codebeltnet/swashbuckle-aspnetcore)
+  - [Extensions for xUnit API](https://github.com/codebeltnet/xunit)
+  - [Extensions for YamlDotNet API](https://github.com/codebeltnet/yamldotnet)
+  - [Extensions for Asp.Versioning API](https://github.com/codebeltnet/asp-versioning)
+  - [Extensions for Swashbuckle.AspNetCore API](https://github.com/codebeltnet/swashbuckle-aspnetcore)
 - CI/CD
   - GitHub Actions
     - [codecov-scan](https://github.com/codebeltnet/codecov-scan)
