@@ -8,6 +8,7 @@ Repositories of interest:
   - [Bootstrapper](https://github.com/codebeltnet/bootstrapper)
   - [xUnit](https://github.com/codebeltnet/xunit)
   - [YamlDotNet](https://github.com/codebeltnet/yamldotnet)
+  - [Asp.Versioning](https://github.com/codebeltnet/asp-versioning)
 - CI/CD
   - GitHub Actions
     - [codecov-scan](https://github.com/codebeltnet/codecov-scan)
