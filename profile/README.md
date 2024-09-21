@@ -9,6 +9,7 @@ Repositories of interest:
   - [xUnit](https://github.com/codebeltnet/xunit)
   - [YamlDotNet](https://github.com/codebeltnet/yamldotnet)
   - [Asp.Versioning](https://github.com/codebeltnet/asp-versioning)
+  - [Swashbuckle.AspNetCore](https://github.com/codebeltnet/swashbuckle-aspnetcore)
 - CI/CD
   - GitHub Actions
     - [codecov-scan](https://github.com/codebeltnet/codecov-scan)
