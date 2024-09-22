@@ -10,6 +10,7 @@ Repositories of interest:
   - [Extensions for YamlDotNet API](https://github.com/codebeltnet/yamldotnet)
   - [Extensions for Asp.Versioning API](https://github.com/codebeltnet/asp-versioning)
   - [Extensions for Swashbuckle.AspNetCore API](https://github.com/codebeltnet/swashbuckle-aspnetcore)
+  - [Extensions for Newtonsoft.Json API](https://github.com/codebeltnet/newtonsoft-json)
 - CI/CD
   - GitHub Actions
     - [codecov-scan](https://github.com/codebeltnet/codecov-scan)
