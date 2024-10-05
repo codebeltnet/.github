@@ -11,6 +11,7 @@ Repositories of interest:
   - [Extensions for Asp.Versioning API](https://github.com/codebeltnet/asp-versioning)
   - [Extensions for Swashbuckle.AspNetCore API](https://github.com/codebeltnet/swashbuckle-aspnetcore)
   - [Extensions for Newtonsoft.Json API](https://github.com/codebeltnet/newtonsoft-json)
+  - [Extensions for AWS Signature Version 4 API](https://github.com/codebeltnet/aws-signature-v4)
 - CI/CD
   - GitHub Actions
     - [codecov-scan](https://github.com/codebeltnet/codecov-scan)
