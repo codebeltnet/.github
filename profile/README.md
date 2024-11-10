@@ -5,6 +5,7 @@ Repositories of interest:
 - .NET
   - [Savvy I/O](https://github.com/codebeltnet/savvyio)
   - [SharedKernel](https://github.com/codebeltnet/shared-kernel)
+  - [Unitify](https://github.com/codebeltnet/unitify)
   - [Bootstrapper](https://github.com/codebeltnet/bootstrapper)
   - [Extensions for xUnit API](https://github.com/codebeltnet/xunit)
   - [Extensions for YamlDotNet API](https://github.com/codebeltnet/yamldotnet)
