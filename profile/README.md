@@ -9,6 +9,7 @@ Repositories of interest:
   - [Bootstrapper](https://github.com/codebeltnet/bootstrapper)
   - [Extensions for xUnit API](https://github.com/codebeltnet/xunit)
   - [Extensions for YamlDotNet API](https://github.com/codebeltnet/yamldotnet)
+  - [Extensions for Globalization API](https://github.com/codebeltnet/globalization)
   - [Extensions for Asp.Versioning API](https://github.com/codebeltnet/asp-versioning)
   - [Extensions for Swashbuckle.AspNetCore API](https://github.com/codebeltnet/swashbuckle-aspnetcore)
   - [Extensions for Newtonsoft.Json API](https://github.com/codebeltnet/newtonsoft-json)
