@@ -35,6 +35,8 @@ Repositories of interest:
     - [shell-globbing](https://github.com/codebeltnet/shell-globbing)
     - [sonarcloud-scan](https://github.com/codebeltnet/sonarcloud-scan)
     - [sonarcloud-scan-finalize](https://github.com/codebeltnet/sonarcloud-scan-finalize)
+  - Reusable Workflows
+    - [jobs-sonarcloud](https://github.com/codebeltnet/jobs-sonarcloud)
 - Infrastructure as Code
   - Terraform
 - Microservices
