@@ -37,6 +37,8 @@ Repositories of interest:
     - [sonarcloud-scan-finalize](https://github.com/codebeltnet/sonarcloud-scan-finalize)
   - Reusable Workflows
     - [jobs-sonarcloud](https://github.com/codebeltnet/jobs-sonarcloud)
+    - [jobs-codecov](https://github.com/codebeltnet/jobs-codecov)
+    - [jobs-codeql](https://github.com/codebeltnet/jobs-codeql)
 - Infrastructure as Code
   - Terraform
 - Microservices
