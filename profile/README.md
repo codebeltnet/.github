@@ -39,6 +39,7 @@ Repositories of interest:
     - [jobs-sonarcloud](https://github.com/codebeltnet/jobs-sonarcloud)
     - [jobs-codecov](https://github.com/codebeltnet/jobs-codecov)
     - [jobs-codeql](https://github.com/codebeltnet/jobs-codeql)
+    - [jobs-dotnet](https://github.com/codebeltnet/jobs-dotnet)
     - [jobs-nuget](https://github.com/codebeltnet/jobs-nuget)
 - Infrastructure as Code
   - Terraform
