@@ -22,6 +22,7 @@ Repositories of interest:
 - [jobs-codeql](https://github.com/codebeltnet/jobs-codeql)
 - [jobs-dotnet-build](https://github.com/codebeltnet/jobs-dotnet-build)
 - [jobs-dotnet-pack](https://github.com/codebeltnet/jobs-dotnet-pack)
+- [jobs-dotnet-restore](https://github.com/codebeltnet/jobs-dotnet-restore)
 - [jobs-dotnet-test](https://github.com/codebeltnet/jobs-dotnet-test)
 - [jobs-nuget-push](https://github.com/codebeltnet/jobs-nuget-push)
 
