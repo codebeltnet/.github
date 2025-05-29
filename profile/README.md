@@ -3,10 +3,11 @@ Provide ways to help you streamline development efforts in the context of SDLC- 
 Repositories of interest:
 
 - .NET
+  - [Cuemmon for .NET](https://github.com/gimlichael/Cuemon)
   - [Savvy I/O](https://github.com/codebeltnet/savvyio)
-  - [SharedKernel](https://github.com/codebeltnet/shared-kernel)
-  - [Unitify](https://github.com/codebeltnet/unitify)
-  - [Bootstrapper](https://github.com/codebeltnet/bootstrapper)
+  - [Shared Kernel API](https://github.com/codebeltnet/shared-kernel)
+  - [Unitify API](https://github.com/codebeltnet/unitify)
+  - [Bootstrapper API](https://github.com/codebeltnet/bootstrapper)
   - [Extensions for xUnit API](https://github.com/codebeltnet/xunit)
   - [Extensions for YamlDotNet API](https://github.com/codebeltnet/yamldotnet)
   - [Extensions for Globalization API](https://github.com/codebeltnet/globalization)
