@@ -3,7 +3,7 @@ Provide ways to help you streamline development efforts in the context of SDLC- 
 Repositories of interest:
 
 - .NET
-  - [Cuemmon for .NET](https://github.com/gimlichael/Cuemon)
+  - [Cuemon for .NET](https://github.com/gimlichael/Cuemon)
   - [Savvy I/O](https://github.com/codebeltnet/savvyio)
   - [Shared Kernel API](https://github.com/codebeltnet/shared-kernel)
   - [Unitify API](https://github.com/codebeltnet/unitify)
