@@ -41,6 +41,8 @@ Repositories of interest:
 - [gcp-download-file](https://github.com/codebeltnet/gcp-download-file)
 - [git-checkout](https://github.com/codebeltnet/git-checkout)
 - [install-dotnet](https://github.com/codebeltnet/install-dotnet)
+- [install-mono](https://github.com/codebeltnet/install-mono)
+- [install-nuget](https://github.com/codebeltnet/install-nuget)
 - [minver-calculate](https://github.com/codebeltnet/minver-calculate)
 - [nuget-push](https://github.com/codebeltnet/nuget-push)
 - [shell-globbing](https://github.com/codebeltnet/shell-globbing)
