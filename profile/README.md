@@ -9,6 +9,7 @@ Repositories of interest:
 - [Unitify API](https://github.com/codebeltnet/unitify)
 - [Bootstrapper API](https://github.com/codebeltnet/bootstrapper)
 - [Extensions for xUnit API](https://github.com/codebeltnet/xunit)
+- [Extensions for BenchmarkDotNet API](https://github.com/codebeltnet/benchmarkdotnet)
 - [Extensions for YamlDotNet API](https://github.com/codebeltnet/yamldotnet)
 - [Extensions for Globalization API](https://github.com/codebeltnet/globalization)
 - [Extensions for Asp.Versioning API](https://github.com/codebeltnet/asp-versioning)
@@ -101,3 +102,4 @@ Where `origin` is the local development environment from which the application i
 - [Clean Code in 5 minutes](https://issuu.com/softhouse/docs/cleancode_5minutes_120523)
 - [The Boy Scout Rule](https://biratkirat.medium.com/step-8-the-boy-scout-rule-robert-c-martin-uncle-bob-9ac839778385)
 - [Manifesto for Software Craftsmanship](https://manifesto.softwarecraftsmanship.org/)
+
