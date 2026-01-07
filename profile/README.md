@@ -165,17 +165,17 @@ Repositories containing IaC should define environment-specific folders:
 ## Credits & Appreciation
 
 Building and maintaining a comprehensive sidecar ecosystem for .NET requires significant effort, ongoing refactoring, and high engineering standards.  
+
 This work is made possible in part through the support of our sponsors, to whom we are sincerely grateful.
 
 ### JetBrains
 
-The **JetBrains All Products Pack** has been generously provided by JetBrains in support of **Cuemon for .NET**, part of the Codebelt family of projects.
+The [All Products Pack](https://www.jetbrains.com/all/) has been generously provided by [JetBrains](https://www.jetbrains.com/) in support of [Cuemon for .NET](https://github.com/codebeltnet/cuemon), part of the Codebelt family of projects.
 
-In particular, **ReSharper** plays a central role in the daily development workflow, contributing directly to code quality, safe refactoring, and long-term maintainability.
+In particular, [ReSharper](https://www.jetbrains.com/resharper/) plays a central role in the daily development workflow, contributing directly to code quality, safe refactoring, and long-term maintainability.
 
 ### GitHub
 
 We would also like to acknowledge GitHub for providing the platform and tooling that make collaboration, issue tracking, CI/CD workflows, and open-source distribution possible.
 
 GitHub’s infrastructure plays an essential role in enabling transparent development, community contributions, and long-term project visibility.
-
