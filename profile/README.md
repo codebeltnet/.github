@@ -1,7 +1,5 @@
 # Codebelt Engineering Ecosystem
 
-## Purpose & Scope
-
 This repository landscape provides tooling, libraries, and workflows designed to streamline development efforts across the SDLC, with a strong emphasis on DevSecOps practices.
 
 The goal is to ensure a smooth, consistent, and repeatable way of working with code—across development, testing, security analysis, packaging, and deployment.
@@ -179,3 +177,4 @@ In particular, [ReSharper](https://www.jetbrains.com/resharper/) plays a central
 We would also like to acknowledge GitHub for providing the platform and tooling that make collaboration, issue tracking, CI/CD workflows, and open-source distribution possible.
 
 GitHub’s infrastructure plays an essential role in enabling transparent development, community contributions, and long-term project visibility.
+
