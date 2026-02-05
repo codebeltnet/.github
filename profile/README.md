@@ -63,19 +63,27 @@ Composable GitHub Actions workflows intended to standardize CI/CD pipelines:
 
 Low-level, reusable GitHub Actions used by workflows:
 
-- [dotnet-restore](https://github.com/codebeltnet/dotnet-restore)
-- [dotnet-build](https://github.com/codebeltnet/dotnet-build)
-- [dotnet-test](https://github.com/codebeltnet/dotnet-test)
-- [dotnet-pack](https://github.com/codebeltnet/dotnet-pack)
-- [nuget-push](https://github.com/codebeltnet/nuget-push)
 - [codecov-scan](https://github.com/codebeltnet/codecov-scan)
 - [codeql-scan](https://github.com/codebeltnet/codeql-scan)
-- [sonarcloud-scan](https://github.com/codebeltnet/sonarcloud-scan)
+- [codeql-scan-finalize](https://github.com/codebeltnet/codeql-scan-finalize)
+- [docker-compose](https://github.com/codebeltnet/docker-compose)
+- [dotnet-build](https://github.com/codebeltnet/dotnet-build)
+- [dotnet-pack](https://github.com/codebeltnet/dotnet-pack)
+- [dotnet-restore](https://github.com/codebeltnet/dotnet-restore)
+- [dotnet-test](https://github.com/codebeltnet/dotnet-test)
+- [dotnet-tool-install-minver](https://github.com/codebeltnet/dotnet-tool-install-minver)
+- [dotnet-tool-install-reportgenerator](https://github.com/codebeltnet/dotnet-tool-install-reportgenerator)
+- [dotnet-tool-install-sonarscanner](https://github.com/codebeltnet/dotnet-tool-install-sonarscanner)
+- [gcp-download-file](https://github.com/codebeltnet/gcp-download-file)
+- [git-checkout](https://github.com/codebeltnet/git-checkout)
 - [install-dotnet](https://github.com/codebeltnet/install-dotnet)
+- [install-mono](https://github.com/codebeltnet/install-mono)
 - [install-nuget](https://github.com/codebeltnet/install-nuget)
 - [minver-calculate](https://github.com/codebeltnet/minver-calculate)
-- [git-checkout](https://github.com/codebeltnet/git-checkout)
+- [nuget-push](https://github.com/codebeltnet/nuget-push)
 - [shell-globbing](https://github.com/codebeltnet/shell-globbing)
+- [sonarcloud-scan](https://github.com/codebeltnet/sonarcloud-scan)
+- [sonarcloud-scan-finalize](https://github.com/codebeltnet/sonarcloud-scan-finalize)
 
 ---
 
@@ -176,5 +184,6 @@ In particular, [ReSharper](https://www.jetbrains.com/resharper/) plays a central
 We would also like to acknowledge GitHub for providing the platform and tooling that make collaboration, issue tracking, CI/CD workflows, and open-source distribution possible.
 
 GitHub’s infrastructure plays an essential role in enabling transparent development, community contributions, and long-term project visibility.
+
 
 
