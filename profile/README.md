@@ -36,6 +36,7 @@ Core libraries, frameworks, and extensions targeting modern .NET development:
 - [Extensions for xUnit API](https://github.com/codebeltnet/xunit)
 - [Extensions for BenchmarkDotNet API](https://github.com/codebeltnet/benchmarkdotnet)
 - [Extensions for YamlDotNet API](https://github.com/codebeltnet/yamldotnet)
+- [Extensions for Carter API](https://github.com/codebeltnet/carter)
 - [Extensions for Globalization API](https://github.com/codebeltnet/globalization)
 - [Extensions for Asp.Versioning API](https://github.com/codebeltnet/asp-versioning)
 - [Extensions for Swashbuckle.AspNetCore API](https://github.com/codebeltnet/swashbuckle-aspnetcore)
@@ -184,6 +185,7 @@ In particular, [ReSharper](https://www.jetbrains.com/resharper/) plays a central
 We would also like to acknowledge GitHub for providing the platform and tooling that make collaboration, issue tracking, CI/CD workflows, and open-source distribution possible.
 
 GitHub’s infrastructure plays an essential role in enabling transparent development, community contributions, and long-term project visibility.
+
 
 
 
